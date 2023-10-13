@@ -7,7 +7,10 @@
 body {
   min-width: 1100px;
   margin: 0;
+  padding: 0;
   font-family: Raleway, sans-serif;
+  font-weight: 400;
+  color: #fff;
 }
 
 h1,
@@ -23,6 +26,8 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
+  font-weight: 400;
+  
 }
 
 a {
